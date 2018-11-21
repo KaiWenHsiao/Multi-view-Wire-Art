@@ -1,0 +1,8 @@
+3
+example_line_drawing\deer.jpg
+example_line_drawing\christmasHat.jpg
+example_line_drawing\airplane.jpg
+1
+XXX
+1
+181120_t5
