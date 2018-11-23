@@ -6,6 +6,7 @@ Wire art is the creation of 3D sculptural art using wire strands. As the 2D proj
 
 ## Results
 Our method handles inputs with varying complexity. More results and dynamic exhibition can be found in our [Online Gallery](https://cgv.cs.nthu.edu.tw/MVWA_onlinegallery/).
+<br>
 <img style="width: 50%;" src="https://cgv.cs.nthu.edu.tw/download?guid=801220cf-c313-11e8-9b71-0011328fa92e">
 
 ## Prerequisite
