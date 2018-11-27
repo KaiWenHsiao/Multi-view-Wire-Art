@@ -1,4 +1,4 @@
-# Execution file
+# Executable
 ## Input line Drawings
 - For the input images, we use only rasterized images and .JPG is the best.
 - Please be careful of that our system wil calculate the bounding box of the line-drawing pattern and use it to extract line-drawing. Please make sure the ratio of width/height is lower than 1.2, or it would be applied non-uniform deformation.
