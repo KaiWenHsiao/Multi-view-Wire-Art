@@ -12,7 +12,6 @@ Our method handles inputs with varying complexity. More results and dynamic exhi
 ## Prerequisite
 - [OpenGL Mathematics (GLM)](https://glm.g-truc.net/0.9.9/index.html)
 - [OpenCV](https://opencv.org/)
-- [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page)
 
 ## Citation 
 If you use this code for your research, please cite this paper:
